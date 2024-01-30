@@ -1,0 +1,34 @@
+Rock, Paper, Scissors Game
+
+Instructions:
+
+
+Choose an Action:
+
+You have three choices: Rock, Paper, or Scissors.
+Type the number corresponding to your choice:
+1 for Rock
+2 for Paper
+3 for Scissors
+See the Result:
+
+The computer will also pick Rock, Paper, or Scissors.
+The choices will be shown on the screen.
+Determine the Winner:
+
+Rock beats Scissors
+Paper beats Rock
+Scissors beat Paper
+Find Out Who Wins:
+
+If your choice beats the computer's choice, you win!
+If it's a tie, the game says so.
+If the computer wins, it lets you know.
+Repeat or Quit:
+
+After each round, you can choose to play again or quit.
+Type 4 to quit the game.
+
+
+
+https://www.linkedin.com/posts/nasir-hayat-4515202a2_cplusplus-interncareerinternship-interncareer-activity-7158162933238112257-f-PB?utm_source=share&utm_medium=member_desktop
