@@ -28,7 +28,3 @@ Repeat or Quit:
 
 After each round, you can choose to play again or quit.
 Type 4 to quit the game.
-
-
-
-https://www.linkedin.com/posts/nasir-hayat-4515202a2_cplusplus-interncareerinternship-interncareer-activity-7158162933238112257-f-PB?utm_source=share&utm_medium=member_desktop
